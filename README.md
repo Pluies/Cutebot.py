@@ -10,15 +10,23 @@ Installation
 
 Install dependencies
 
+```bash
   pip install pyrc
+```
+```bash
   pip install requests
+```
 
 Then change the URL to match your own IRC server, and run:
 
+```bash
   python cutebot.py
+```
 
 Usage
 =====
 
+```
   /msg cutebot cute
+```
 
